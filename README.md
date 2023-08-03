@@ -7,7 +7,7 @@ ros版本：noetic
 # main-v1分支：  
 利用xacro文件完成小车和rviz以及gazebo的集成，利用gazebo插件给小车搭载摄像头和激光雷达以及深度相机  
 
-# main-v2  
+# main-v2分支： 
 main-v2分支：在main-v1的基础上实现NMPC控制  
 
 
